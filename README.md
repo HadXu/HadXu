@@ -12,4 +12,23 @@ Zhenlei research interests mainly focus on machine learning,deep learning, and d
 - Twitter: [@hadxu](https://twitter.com/hadxu_123)
 - zhihu: [@hadxu](https://www.zhihu.com/people/hadxu)
 
+```
+struct lei;
 
+impl lei {
+    const NAME: &'static str = "lei";
+    const LOCATION: &'static str = "Shenzhen, China";
+    const PROFILE: &'static str = "Algorithm Developer";
+}
+
+struct Skills;
+
+impl Skills {
+    const LANGUAGES: [&'static str; 5] = ["Python", "Rust", "C/C++", "Java", "swift", "shell"];
+    const OPERATION_SYSTEMS: [&'static str; 3] = ["macOS", "Linux", "Windows"];
+    const STORAGES: [&'static str; 3] = ["MongoDB", "Redis", "MySQL"];
+    const Framework: [&'static str; 2] = ["Tensorflow", "Pytorch"];
+    const WEB_FRAMEWORKS: [&'static str; 2] = ["Flask", "Rocket"];
+    const DEVOPS: [&'static str; 1] = ["Docker"];
+}
+```
