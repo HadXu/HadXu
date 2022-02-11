@@ -29,6 +29,6 @@ impl Skills {
     const STORAGES: [&'static str; 3] = ["MongoDB", "Redis", "MySQL"];
     const Framework: [&'static str; 2] = ["Tensorflow", "Pytorch"];
     const WEB_FRAMEWORKS: [&'static str; 2] = ["Flask", "Rocket"];
-    const DEVOPS: [&'static str; 1] = ["Docker"];
+    const DEVOPS: [&'static str; 2] = ["Docker", "Raspberry"];
 }
 ```
