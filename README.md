@@ -2,7 +2,7 @@
 
 Zhenlei was born in gaoyou(高邮), Jiangsu(江苏),China. He is currently working in Tencent AI Lab, and graduated in Jiangnan University in 2020.
 
-Zhenlei research interests mainly focus on machine learning,deep learning, and distributed computing programming. He is currently learning Golang, Rust and some interesting algorithm.
+Zhenlei research interests mainly focus on machine learning,deep learning, and distributed computing programming. He is currently learning Golang, Rust and some interesting algorithm and AI Compiler.
 
 ### My Social Media 😺
 
